@@ -1,1 +1,2 @@
 # Predicting-Housing-Prices
+The goal of this project is to create a model that can accurately estimate the price of a house based on its features. Developing a machine learning model using the linear regression algorithm and evaluating the model using various regression evaluation metrics. I utilized the Python programming language and various data analysis libraries to preprocess, explore, and model the dataset.
